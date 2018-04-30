@@ -24,7 +24,8 @@
       $jq(".menu-toggle > .fa-bars, .menu-toggle > .fa-times").toggleClass("fa-bars fa-times");
     });
     //  TESTIMONIALS CAROUSEL HOOK
-    $jq('#customers-testimonials').owlCarousel({
+    var owl = $jq('#customers-testimonials');
+    owl.owlCarousel({
       loop: true,
       center: true,
       items: 3,
@@ -43,7 +44,9 @@
         1170: {
           items: 3
         }
-      }
+      },
+      navigation: true,
+      navigationText: true
     });
   });
 })(jQuery)
