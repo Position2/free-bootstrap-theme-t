@@ -1,8 +1,8 @@
 # Bootstrap Theme - Travel
 
-[![Travel Preview](https://position2.github.io/bootstraptheme/travel/images/travel.jpg)](https://position2.github.io/bootstraptheme/travel/)
+[![Travel Preview](https://position2.github.io/free-bootstrap-theme-t/images/travel.jpg)](https://position2.github.io/free-bootstrap-theme-t/)
 
-**[Live Demo](https://position2.github.io/bootstraptheme/travel/)**
+**[Live Demo](https://position2.github.io/free-bootstrap-theme-t/)**
 
 # Theme Details & Demo
 
@@ -45,4 +45,4 @@ Download the package then edit the HTML and CSS files included with the template
 
 # Copyright and License
 
-Copyright 2018-2019 Position2 Inc. Code released under the [MIT](https://github.com/Position2/bootstraptheme/blob/master/travel/LICENSE) license.
+Copyright 2018-2019 Position2 Inc. Code released under the [MIT](https://github.com/Position2/free-bootstrap-theme-t/blob/master/LICENSE) license.
