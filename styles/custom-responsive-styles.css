@@ -4,6 +4,9 @@
     padding-top: 70px;
     padding-bottom: 70px;
   }
+  .logo i {
+    font-size: 40px;
+  }
   #Banner .content-wrap h1 {
     font-size: 36px;
   }
@@ -21,6 +24,9 @@
     margin: 0 auto 20px;
     width: 100%;
     display: block;
+  }
+  #customers-testimonials .item {
+    margin-bottom: 0;
   }
   #Contact .contact-wrapper {
     border-right: none;
@@ -46,6 +52,9 @@
 }
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767px) {
+  .logo i {
+    font-size: 40px;
+  }
   .content-section {
     padding-top: 70px;
     padding-bottom: 70px;
@@ -67,6 +76,9 @@
     margin: 0 auto 20px;
     width: 100%;
     display: block;
+  }
+  #customers-testimonials .item {
+    margin-bottom: 0;
   }
   #Contact .contact-wrapper {
     border-right: none;
@@ -119,6 +131,9 @@
   .owl-nav {
     display: none !important; 
   }
+  #Contact .c-icon {
+    margin-right: 10px;
+  }
 }
 /*Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -148,6 +163,9 @@
   }
   .owl-nav {
     display: none !important; 
+  }
+  #Contact .c-icon {
+    margin-right: 10px;
   }
 }
 /*Extra large devices (large desktops, 1200px and up)*/
