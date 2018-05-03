@@ -553,4 +553,7 @@ footer.footer p.small a:hover, footer.footer p.small a.focus {
 	color: #02ccba;
 	text-decoration: none;
 }
+#Contact .address-block span {
+	text-transform: none;
+}
 /* Styles Begins */
