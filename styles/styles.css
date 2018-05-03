@@ -545,4 +545,12 @@ footer.footer .social-link {
 footer.footer .social-link:hover {
 	background-color: #07bcab;
 }
+footer.footer p.small a {
+	color: #636c72;
+	text-decoration: none;
+}
+footer.footer p.small a:hover, footer.footer p.small a.focus {
+	color: #02ccba;
+	text-decoration: none;
+}
 /* Styles Begins */
