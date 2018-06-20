@@ -16,6 +16,7 @@
         header = $jq(".sidebar-nav");
       dis.addClass("active").parent().siblings().find(".smooth-scroll").removeClass("active");
       $jq('html,body').stop().animate({ scrollTop: offset }, 200);
+      $jq(".menu-toggle").trigger("click");
     });
     // Closes responsive menu when a scroll trigger link is clicked
     $jq('#sidebar-wrapper .js-scroll-trigger').click(function() {
